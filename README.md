@@ -16,9 +16,11 @@ From February 2018 to November 2018, I worked on HR system maintenance.
 
 I developed a personal information management system from December 2018 to December 2020.
 
-I'm currently in Glosign.
+I worked at start-up(e-signn) from December 2020 to May 2021.
 
-I have been developing a system using Java and SpringBoot since December 2020.
+I'm currently in LINE Plus.
+
+I am in charge of development and engineering related to personal information.
 
 ==================================================================================================================
 
